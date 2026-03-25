@@ -27,6 +27,10 @@ Arquitectura híbrida:
 
 ---
 
+## URL del proyecto
+https://proyecto-startup-recomendador.onrender.com
+
+---
 ## Cómo ejecutar localmente
 
 ### 1. Clonar repositorio
